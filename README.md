@@ -6,13 +6,6 @@ The primary goal was to create a personalized and emotional experience, while al
 
 ### ✨ [View the live site](https://lucas-e-malu.netlify.app/)
 
-*(Replace with your Netlify or GitHub Pages link)*
-
----
-
-![Site Preview](https://i.imgur.com/link-da-sua-screenshot.png)
-*(Tip: Take a nice screenshot of your site, upload it to [Imgur](https://imgur.com/), and paste the link here)*
-
 ## 🚀 Key Features
 
 * **Real-Time Countdown:** A counter that displays the time we've been together (years, months, days, hours, minutes, and seconds), updating every second.
