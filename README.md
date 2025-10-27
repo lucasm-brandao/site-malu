@@ -4,7 +4,7 @@ This is a special front-end project created as a 1-year anniversary gift. It is 
 
 The primary goal was to create a personalized and emotional experience, while also serving as a practical case study for a modern, high-performance, and **data-driven** front-end architecture.
 
-### ✨ [View the live site](https://lucas-e-malu.netlify.app/)
+### ✨ [View the live site](https://biricutico.netlify.app/)
 
 ## 🚀 Key Features
 
