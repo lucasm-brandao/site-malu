@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lucas e Maria Luiza</title>
+    <meta name="description" content="Algo para te fazer lembrar que eu sempre vou te amar.">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Orbitron:wght@700&family=Satisfy&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+    <script src="scripts.js" defer></script>
+</head>
+<body>
+
+    <header class="main-header">
+        <h1>Para a melhor namorada de todo o mundo</h1>
+    </header>
+    <main>
+
+        <section id="contador-section" class="hero">
+            <h2 id="frase-principal"></h2>
+            <div id="contador">
+                <div class="contador-bloco">
+                    <div class="contador-label">Anos</div>
+                    <div class="contador-valor" id="anos">00</div>
+                </div>
+                <div class="separador">&middot;</div>
+                <div class="contador-bloco">
+                    <div class="contador-label">Meses</div>
+                    <div class="contador-valor" id="meses">00</div>
+                </div>
+                <div class="separador">&middot;</div>
+                <div class="contador-bloco">
+                    <div class="contador-label">Dias</div>
+                    <div class="contador-valor" id="dias">00</div>
+                </div>
+                <div class="separador">&middot;</div>
+                <div class="contador-bloco">
+                    <div class="contador-label">Horas</div>
+                    <div class="contador-valor" id="horas">00</div>
+                </div>
+                <div class="separador">&middot;</div>
+                <div class="contador-bloco">
+                    <div class="contador-label">Minutos</div>
+                    <div class="contador-valor" id="minutos">00</div>
+                </div>
+                <div class="separador">&middot;</div>
+                <div class="contador-bloco">
+                    <div class="contador-label">Segundos</div>
+                    <div class="contador-valor" id="segundos">00</div>
+                </div>
+            </div>
+        </section>
+        <section id="galeria-section">
+            <h2>Nossos Momentos</h2>
+            <div id="galeria-container" class="gallery-grid">
+                </div>
+        </section>
+        <section id="palavras-section">
+            <h2>Leia quando</h2>
+            <div id="palavras-container">
+                </div>
+        </section>
+        <section id="playlist-section">
+            <h2>Músicas que me fazem lembrar de você</h2>
+            <div id="playlist-container">
+                </div>
+        </section>
+        </main> 
+    <footer class="main-footer">
+        <p>Feito com todo amor do mundo por Lucas.</p>
+    </footer>
+    <div id="lightbox-overlay" class="lightbox-overlay">
+        <span class="lightbox-close">&times;</span>
+        <img class="lightbox-content" id="lightbox-img">
+        <p class="lightbox-caption" id="lightbox-caption"></p>
+    </div>
+
+    <div id="texto-modal-overlay" class="modal-overlay">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <h3 class="modal-titulo" id="modal-titulo"></h3>
+            <div class="modal-texto" id="modal-texto"></div>
+        </div>
+    </div>
+
+</body>
+</html>

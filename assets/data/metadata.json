@@ -1,0 +1,109 @@
+{
+  "casal": {
+    "nome1": "Lucas",
+    "nome2": "Maria Luiza",
+    "dataInicioNamoro": "2024-11-22",
+    "frasePrincipal": "Contando os segundos desde a minha melhor decisão:"
+  },
+  "galeria": [
+    {
+      "src": "assets/images/gallery/Foto1.JPG",
+      "alt": "Eu te beijando na HYPE",
+      "declaracao": "Todas as vezes que eu acordo eu vejo o quão sortudo eu sou por ter você."
+    },
+    {
+      "src": "assets/images/gallery/Foto2.JPG",
+      "alt": "A gente se beijando na HYPE",
+      "declaracao": "Cada momento ao seu lado se torna a melhor memória da minha vida."
+    },
+    {
+      "src": "assets/images/gallery/Foto3.JPG",
+      "alt": "Eu te beijando no Mainstreet Festival",
+      "declaracao": "Quero ficar contigo para sempre meu amor."
+    },
+    {
+      "src": "assets/images/gallery/Foto4.JPG",
+      "alt": "A gente sorrindo na HYPE",
+      "declaracao": "Você é meu amor, minha vida, meu mundo, meu tudo. Te amo mais que tudo minha princesa."
+    },
+    {
+      "src": "assets/images/gallery/Foto5.JPG",
+      "alt": "A gente descendo o carrinho na montanha em Miguel Pereira",
+      "declaracao": "A forma como você olha para o mundo me faz querer ser um homem melhor."
+    },
+    {
+      "src": "assets/images/gallery/Foto6.JPG",
+      "alt": "Eu te beijando no Espaço Hall",
+      "declaracao": "Eu não sei o que seria de mim sem você Maria Luiza."
+    },
+    {
+      "src": "assets/images/gallery/Foto7.JPG",
+      "alt": "Nosso reflexo na colher",
+      "declaracao": "Cada segundo que passa eu tenho mais certeza que é você quem eu quero do meu lado."
+    },
+    {
+      "src": "assets/images/gallery/Foto8.JPG",
+      "alt": "A gente levando o Arthur para passear",
+      "declaracao": "Meu maior sonho é poder formar uma família com você."
+    },
+    {
+      "src": "assets/images/gallery/Foto9.JPG",
+      "alt": "Eu beijando sua cabeça na HYPE",
+      "declaracao": "Você é a pessoa que eu mais amo, mais amei e mais vou amar em toda minha vida."
+    },
+    {
+      "src": "assets/images/gallery/Foto10.JPG",
+      "alt": "Montagem de você quase caindo do penhasco",
+      "declaracao": "A minha vida com você fica infinitamente melhor."
+    },
+    {
+      "src": "assets/images/gallery/Foto11.JPG",
+      "alt": "A gente se olhando na varanda do Kerlon",
+      "declaracao": "Sempre que eu te olho eu fico mais e mais apaixonado por você."
+    },
+    {
+      "src": "assets/images/gallery/Foto12.JPG",
+      "alt": "A gente se beijando na varanda do Kerlon",
+      "declaracao": "Te ver feliz é a única coisa que importa para mim."
+    }
+  ],
+  "frasesCarinhosas": [
+    "Eu te amo, meu amor.",
+    "Eu te amo, maricotinha.",
+    "Eu te amo, pitufina.",
+    "Eu te amo, cabeçuda",
+    "Eu te amo, piteteca",
+    "Eu te amo, princesa",
+    "Eu te amo, minha vida",
+    "Eu te amo, amoreco",
+    "Eu te amo, biricutico"
+  ],
+  "mensagens": [
+    {
+      "prompt": "Leia quando estiver com saudades...",
+      "titulo": "Para quando a saudade apertar",
+      "conteudo": "Oi meu amor, eu sei que você tá com saudades e quer me ver, não sei o porque a gente está tanto tempo sem se ver (na verdade não sei nem quanto tempo, mas por mim qualquer sem você já é uma eternidade), porém com certeza a gente tem um motivo. Talvez sejam as provas, os estudos ou coisas que a gente precisou fazer e acabou ficando sem tempo. Mas saiba de uma coisa, eu te amo, e minha maior vontade com toda certeza é ficar o mais perto possível de você, sentindo seu abraço, seu beijo, seu toque. Tenho certeza que já já a gente vai matar essa saudade e fazer tudo o que a gente mais quer. Eu te amo piteteca"
+    },
+    {
+      "prompt": "Leia quando tiver um dia difícil...",
+      "titulo": "Para quando tudo parecer difícil",
+      "conteudo": "Ei amor, eu sei que hoje tá sendo um dia complicado, não sei o que aconteceu (talvez eu já até tenha perguntado mas né, você não me fala as coisas e fica guardando só para você), mas fica tranquila, todos esses momentos ruins vão passar, todas esses sentimentos tristes que você tá sentindo, seu pensamentos ruins que você tá pensando, vai tudo passar, você é forte meu amor, a mulher mais forte que eu conheço, então fica tranquila, você  vai conseguir por tudo isso e com certeza sair muito mais forte disso tudo. Sei que tudo está complicado, e você pode contar comigo pra desabafar, ser seu ombro amigo, eu sou seu namorado, te amo muito e quero poder te ajudar com qualquer coisa que eu consiga, então pode contar comigo e se quiser, eu estou aqui por você. O que quer seja, não deixa isso te abalar, você sabe quem você é, sabe o quão incrível você é, independente do que acontece, acredita em você, você tem força para passar por isso. Eu te amo biricutico."
+    },
+    {
+      "prompt": "Leia quando duvidar do meu amor...",
+      "titulo": "Uma coisa que nunca vai mudar",
+      "conteudo": "Ei amor, não sei o que aconteceu entre a gente ou só se você está com alguma dúvida por algo que aconteceu. Mas saiba, independente de qualquer coisa que aconteça, eu te amo, e não existe nenhuma dúvida sobre isso. Você é, foi, e sempre será a pessoa que eu mais amo no mundo, e eu não quero que você tenha dúvidas sobre isso, meu sonho é poder ficar com você e construir uma família, sei que talvez você duvide disso, mas queria que você lembrasse dos nossos melhores momentos, quando eu te pedi em namoro, quando eu servi de ombro pra você chorar e desabafar, quando a gente riu junto das bobeiras que eu faço, lembra de tudo, e com certeza sua dúvida vai sumir, porque eu nunca conseguiria ser tão feliz com alguém que eu não amasse, que amasse não, que eu fosse completamente e perdidamente apaixonado. Eu te amo maricotinha."
+    },
+    {
+      "prompt": "Leia quando estiver com raiva de mim...",
+      "titulo": "Para quando você quiser me matar",
+      "conteudo": "Eu não sei o que eu fiz, mas calma kkkkk. Primeiro, calma, me desculpa pelo o que eu fiz (mesmo que provavelmente eu nem saiba o porque voce esta brava comigo, mas tudo bem), eu sei que voce que me matar, nao quer me ver, mas por favor me perdoa, eu nunca vou querer te deixar brava, nem discutir com voce, eu te amo muito e a ultima coisa que eu qquero e brigar com voce, entao nao fica tanto tempo brava comigo, vamos conversar que com certeza a gente vai se entender de novo. Eu te amo pitufina."
+    }
+  ],
+
+"playlist": {
+    "tipo": "spotify",
+    "url": "https://open.spotify.com/embed/playlist/6R7ezvY3vwtb5e3h6G65r3?utm_source=generator" 
+  }
+}
+
